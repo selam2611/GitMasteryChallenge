@@ -7,3 +7,4 @@ second commit for feature-branch
 
 final commit
 This is the 1st commit by the classmate
+this is the 2nd commit by the classmate
