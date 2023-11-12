@@ -1,4 +1,10 @@
 # GitMasteryChallenge
 this is for the purpose of version control
 
-main commit 
+
+this for first commit of feature-branch
+
+second commit for feature-branch
+
+final commit
+
